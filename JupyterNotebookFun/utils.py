@@ -21,3 +21,6 @@ def get_frequencies(table, header, col_name):
 
     return unique_col_values, counts
 
+def group_by(table, header, group_by_col_name):
+    #TODO
+    pass
